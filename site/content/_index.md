@@ -6,7 +6,7 @@ blurb:
   heading: What am i doing?
   text: '                                 I am making video/films, photo and design to different platforms. Im currently in highscool located in Norway. I study media and communication.'
 intro:
-  heading: 'What i can offer? '
+  heading: 'What can i offer? '
   text: >-
     I can offer different films, photo and design. I am also making different
     snapchat filters.
