@@ -1,6 +1,6 @@
 ---
-title: Welcome to my site!
-subtitle: Joakim Solheim
+title: JOAKIM SOLHEIM
+subtitle: Portfolio
 image: /img/mona sigurd og martin.jpg
 blurb:
   heading: What am i doing?
