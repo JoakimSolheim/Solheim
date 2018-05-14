@@ -1,7 +1,7 @@
 ---
 title: Welcome to my site!
 subtitle: Joakim Solheim
-image: /img/tobias flex.jpg
+image: /img/mona sigurd og martin.jpg
 blurb:
   heading: What am i doing?
   text: >-
@@ -15,13 +15,8 @@ intro:
     snapchat filters.
 products:
   - image: /img/eirik vindu.jpg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+    text: I am taking portrait photos or i can take landscape photo.
+  - image: /img/tobias flex.jpg
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
