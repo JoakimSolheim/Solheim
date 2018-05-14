@@ -5,6 +5,7 @@ image: /img/tobias flex.jpg
 blurb:
   heading: What am i doing?
   text: >-
+
     I am making video/films, photo and design to different platforms. Im
     currently in highscool located in Norway. I study media and communication.
 intro:
